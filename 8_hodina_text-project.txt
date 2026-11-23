@@ -1,0 +1,9 @@
+text-project/
+│
+├── textkit-
+│   ├── __init__.py
+│   ├── core.py
+│   └── files.py
+│
+├── .gitignore
+└── README.md 
